@@ -1,0 +1,1 @@
+import{r as e}from"./language-dgdNQ0FG.js";import{t}from"./car-detail-CV5mYOAb.js";import{t as n}from"./index-BR2Lx07e.js";var r=e();function i(){let{car:e}=n.useLoaderData();return(0,r.jsx)(t,{car:e})}export{i as component};
